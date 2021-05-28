@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ProdanAlexandru
 - 👀 I’m interested in Web Developement
-- 💞️ I’m looking to collaborate on a full time job.
+- 💞️ I’m looking for new challenges and chasing knowledge.
 - 📫 How to reach me : https://www.linkedin.com/in/alexandru-prodan-2a716a1b6/
 
 <!---
